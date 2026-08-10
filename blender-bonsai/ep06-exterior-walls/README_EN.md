@@ -2,8 +2,8 @@
 
 This package starts with a 6000 × 4000 × 200 mm floor slab and adds four exterior walls with a 200 mm material-layer thickness and a 3000 mm height. It is designed for beginners to reproduce the lesson and compare their result with a validated IFC file.
 
-- Video: link will be added after publication
-- Japanese article: link will be added after publication
+- Video: https://youtu.be/EwG2iRX-rX0
+- Japanese article: https://note.com/real_finch7263/n/n413bb6487b65
 
 ## Files
 

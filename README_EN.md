@@ -9,7 +9,7 @@ The repository contains start models, completed examples, and reproducible gener
 | Package | Contents | Video |
 |---|---|---|
 | [Blender + Bonsai Episode 5: Equipment Room Floor Slab](blender-bonsai/ep05-floor-slab/README_EN.md) | IFC4 start model, archived 150 mm version, recommended 200 mm continuation, generator script | [YouTube](https://youtu.be/Leuoe1HfsAY) |
-| [Blender + Bonsai Episode 6: Equipment Room Exterior Walls](blender-bonsai/ep06-exterior-walls/README_EN.md) | Start model with a 200 mm slab, completed four-wall model, generator and validator scripts | Video link will be added |
+| [Blender + Bonsai Episode 6: Equipment Room Exterior Walls](blender-bonsai/ep06-exterior-walls/README_EN.md) | Start model with a 200 mm slab, completed four-wall model, generator and validator scripts | [YouTube](https://youtu.be/EwG2iRX-rX0) |
 
 ## Quick start
 
