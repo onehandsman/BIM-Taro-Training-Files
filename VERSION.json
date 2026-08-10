@@ -1,0 +1,10 @@
+{
+  "package_version": "1.0.0",
+  "release_date": "2026-08-10",
+  "tested_with": {
+    "Blender": "5.2.0 LTS",
+    "Bonsai": "0.8.5",
+    "IFC_schema": "IFC4",
+    "input_units": "millimetres"
+  }
+}
