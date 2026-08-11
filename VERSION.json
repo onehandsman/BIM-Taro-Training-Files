@@ -1,6 +1,6 @@
 {
-  "package_version": "1.1.0",
-  "release_date": "2026-08-10",
+  "package_version": "1.2.0",
+  "release_date": "2026-08-11",
   "tested_with": {
     "Blender": "5.2.0 LTS",
     "Bonsai": "0.8.5",
