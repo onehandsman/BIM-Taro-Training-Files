@@ -2,8 +2,8 @@
 
 This package starts with one floor slab and four exterior walls, then adds a double-leaf equipment access door and a window. It is designed for beginners to reproduce the lesson and compare the IFC relationships between the wall, opening, and filling elements with a validated completed model.
 
-- Video: to be added after publication
-- Japanese article: to be added after publication
+- Video: https://youtu.be/h-zKdABqurY
+- Japanese article: https://note.com/real_finch7263/n/n223188f920de
 
 ## Files
 
