@@ -11,6 +11,8 @@ Blender＋Bonsai IFC入門の開始モデル、完成例、再生成・検証ス
 | [Blender＋Bonsai 第5回：設備室の床スラブ](blender-bonsai/ep05-floor-slab/README.md) | IFC4開始モデル、150 mm履歴版、200 mm継続版、生成スクリプト | [YouTube](https://youtu.be/Leuoe1HfsAY) |
 | [Blender＋Bonsai 第6回：設備室の外周壁](blender-bonsai/ep06-exterior-walls/README.md) | 200 mm床の開始モデル、外周壁4本の完成例、生成・検証スクリプト | [YouTube](https://youtu.be/EwG2iRX-rX0) |
 | [Blender＋Bonsai 第7回：開口・ドア・窓](blender-bonsai/ep07-openings-doors-windows/README.md) | 外周壁モデル、開口2・ドア1・窓1の完成例、生成・検証スクリプト | [YouTube](https://youtu.be/h-zKdABqurY) |
+| [Blender＋Bonsai 第8回：空間と属性](blender-bonsai/ep08-space-properties/README.md) | 開口・建具モデル、IfcSpace MR-01、属性・数量、生成・検証スクリプト | [YouTube](https://youtu.be/rGZRIptOo3c) |
+| [Blender＋Bonsai 第9回：設備要素と最終確認](blender-bonsai/ep09-equipment-system-final/README.md) | 空調機、100A冷水往還管、CHW-01系統、生成・検証スクリプト | [YouTube](https://youtu.be/DlsK0wesJJk) |
 
 ## まず試す
 
