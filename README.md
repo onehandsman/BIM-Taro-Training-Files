@@ -8,6 +8,7 @@ Blender＋Bonsai IFC入門の開始モデル、完成例、再生成・検証ス
 
 | 教材 | 内容 | 動画 |
 |---|---|---|
+| [Jw_cad 10.01.8：操作確認コマンド一覧](jwcad/command-status/README.md) | 実機で確認できた基本操作、一部確認、保留事項を区別した公開用一覧 | [再生リスト](https://www.youtube.com/playlist?list=PLcYXn_Qo407w) |
 | [Blender＋Bonsai 第5回：設備室の床スラブ](blender-bonsai/ep05-floor-slab/README.md) | IFC4開始モデル、150 mm履歴版、200 mm継続版、生成スクリプト | [YouTube](https://youtu.be/Leuoe1HfsAY) |
 | [Blender＋Bonsai 第6回：設備室の外周壁](blender-bonsai/ep06-exterior-walls/README.md) | 200 mm床の開始モデル、外周壁4本の完成例、生成・検証スクリプト | [YouTube](https://youtu.be/EwG2iRX-rX0) |
 | [Blender＋Bonsai 第7回：開口・ドア・窓](blender-bonsai/ep07-openings-doors-windows/README.md) | 外周壁モデル、開口2・ドア1・窓1の完成例、生成・検証スクリプト | [YouTube](https://youtu.be/h-zKdABqurY) |
